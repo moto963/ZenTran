@@ -1,0 +1,4 @@
+$ git clone https://github.com/moto963/ZenTran.git
+$ git add
+$ git commit -m "App Automatic Fill column"
+$ git push origin master
